@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DeryanKeskin
-- 👀 I’m interested in software-enignieering 
-- 🌱 I’m currently learning Web-development
 
-<!---
-DeryanKeskinKraussKom/DeryanKeskinKraussKom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @DeryanKeskin
+
+👀 I’m fascinated by the world of software engineering, where innovation meets code.
+
+🌱 Currently on a journey to master the art of Web Development, exploring its every nook and cranny.
+
+💼 Proud Software Developer and Web Enthusiast at Krauss Kommunikation since February. 
+
+Let's make the web an exciting place! 💻✨
